@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Wilfred-branch",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Wilfred-branch": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Wilfred-branch",
+    "origin"
+  ]
+}
